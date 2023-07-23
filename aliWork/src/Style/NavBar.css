@@ -1,0 +1,7 @@
+/* In your stylesheet or inline styles */
+.active-link {
+    color: green;
+    text-decoration: underline;
+    background: red;
+  }
+  
